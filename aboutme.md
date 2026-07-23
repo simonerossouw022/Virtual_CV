@@ -7,7 +7,7 @@ subtitle: Graduating 2027 | Aspiring Software Developer
 
 ## Comfort zones were meant to be Broken — that’s how I approach learning and growth.
 
-# Greetings,
+Greetings,
 
 My name is Simoné Rossouw.  
 I am currently in my final year of a BSc in Information Technology at North-West University, 
