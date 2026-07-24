@@ -1141,6 +1141,22 @@ pre {
   background-color: #7a7d6d;   /* Slightly darker shade for hover */
 }
 
+/* Post title on full post pages */
+.post-heading h1 {
+  color: #2c3e50 !important;   /* Dark readable text */
+  font-family: 'Georgia', serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-shadow: none !important; /* Remove glass overlay */
+}
 
+/* Post subtitle on full post pages */
+.post-subheading {
+  color: #555 !important;      /* Medium gray */
+  font-family: 'Arial', sans-serif;
+  font-size: 1.4rem;
+  font-style: italic;
+  text-shadow: none !important;
+}
 
 
