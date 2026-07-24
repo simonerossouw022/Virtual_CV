@@ -50,7 +50,7 @@ round-avatar: true
 social-network-links:
   email: "simonerossouw022@gmail.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Simoné Rossouw
+  # facebook: Simoné Rossouw
   github: simonerossouw022
   instagram: s._rossouw
 
@@ -65,7 +65,6 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  facebook: true
   linkedin: true
   
 
