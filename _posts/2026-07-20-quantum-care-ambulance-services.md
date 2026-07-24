@@ -39,5 +39,6 @@ Through this project, I learned the importance of thoughtful design in ensuring 
 
 Overall, I am truly grateful to my team members. This level of success would not have been possible without their collaboration and dedication.  
 
-*Note: This business and project were created for educational purposes only.*
+#Find the link to this project github repository link on Projects Page.#
 
+*Note: This business and project were created for educational purposes only.*
