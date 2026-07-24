@@ -1124,3 +1124,20 @@ pre {
     display: inline-block;
   }
 }
+
+/* Custom CV button styles */
+.cv-download .btn {
+  background-color: #959987;   /* Canva gray-yellow-green */
+  color: white;                /* Button text color */
+  font-family: 'Roboto', sans-serif; /* Or any font you prefer */
+  font-size: 16px;             /* Adjust text size */
+  border-radius: 8px;          /* Rounded corners */
+  padding: 10px 20px;          /* Space inside button */
+  text-decoration: none;       /* Remove underline */
+  border: none;                /* Remove default border */
+}
+
+.cv-download .btn:hover {
+  background-color: #7a7d6d;   /* Slightly darker shade for hover */
+}
+
