@@ -4,21 +4,15 @@ title: Contact
 subtitle: Get in Touch
 ---
 
-## Let’s Connect
 
-You can reach me through any of these platforms:
+## Connect with Me
 
-<p>
-  <a class="btn btn-social btn-github" href="https://github.com/simonerossouw022" target="_blank">
-    <span class="fa fa-github"></span> GitHub
-  </a>
-  <a class="btn btn-social btn-linkedin" href="https://linkedin.com/in/simonerossouw" target="_blank">
-    <span class="fa fa-linkedin"></span> LinkedIn
-  </a>
-  <a class="btn btn-social btn-google" href="simonerossouw022@gmail.com">
-    <span class="fa fa-envelope"></span> Email
-  </a>
-</p>
+Contact details:
+
+- Email: simonerossouw022@gmail.com 
+- LinkedIn: Simoné Rossouw  
+- GitHub: simonerossouw022 
+- Phone: +27 062 420 9441
 
 ---
 
