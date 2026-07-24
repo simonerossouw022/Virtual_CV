@@ -50,8 +50,6 @@ There are several ways to build a website using Beautiful Jekyll. This document 
 Even if you choose one of the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard), I suggest reading through the easy method first. 
  
 
-## The Easy Way (Recommended!)
-
 **CV Post**  
 Displaying my CV as a post ensures that users can interact with it in a creative way. By sparking curiosity to explore my CV, I increase the chance of being noticed by prospective employers. This approach makes my CV memorable and helps me stand out among competitors.  
 
