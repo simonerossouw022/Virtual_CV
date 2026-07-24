@@ -47,7 +47,8 @@ Proof of successful message testing was included in the assignment submission.
 
 There are several ways to build a website using Beautiful Jekyll. This document focuses on the simplest method: using a fork on GitHub. For most people (including myself), this method is the recommended one.  
 
-Even if you choose one of the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard), I suggest reading through the easy method first.  
+Even if you choose one of the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard), I suggest reading through the easy method first. 
+ 
 
 ## The Easy Way (Recommended!)
 
