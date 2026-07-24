@@ -1141,3 +1141,19 @@ pre {
   background-color: #7a7d6d;   /* Slightly darker shade for hover */
 }
 
+
+
+/* Force post titles to be dark and readable */
+.post-heading .post-title {
+  color: #2c3e50 !important;   /* Dark blue-gray */
+  text-shadow: none;           /* Remove glass/transparent effect */
+  font-weight: bold;
+}
+
+/* Force post subtitles to be clear and consistent */
+.post-heading .post-subtitle {
+  color: #555 !important;      /* Medium gray */
+  text-shadow: none;
+  font-style: italic;
+}
+
