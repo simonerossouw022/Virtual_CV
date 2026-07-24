@@ -2,7 +2,7 @@
 layout: post
 title: The QCAS – Information System
 subtitle: University Project
-cover-img: /assets/img/image-watermark.jpg
+cover-img: /assets/img/image-watermark-wide.jpg
 thumbnail-img: /assets/img/QCASImage1.jpg
 tags: [university, project]
 ---
