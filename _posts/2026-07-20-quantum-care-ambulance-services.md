@@ -2,21 +2,19 @@
 layout: post
 title: The QCAS – Information System
 subtitle: University Project
-cover-img: "{{ '/assets/img/image-watermark.jpg' | relative_url }}"
-thumbnail-img: "{{ '/assets/img/QCASImage1.jpg' | relative_url }}"
+cover-img: /assets/img/image-watermark.jpg
+thumbnail-img: /assets/img/QCASImage1.jpg
 tags: [university, project]
 ---
 
-**Project Date:**
-
-The Information System was created during the second semester of 2025, with planning and preparation beginning early in the first semester.
-
-For our Data Analysis and Design module, my team and I were assigned to develop an information system for a business that would benefit the community in some way.  
+**Project Description:** For our Data Analysis and Design module, my team and I were assigned to develop an information system for a business that would benefit the community in some way...
 
 Many underprivileged communities in South Africa, especially those near remote mining towns, lack access to medical care due to distance and the cost of travel. Our team proposed that if patients cannot reach the clinic, 
 then the clinic must be brought to them.
 
 This idea gave rise to the **Quantum Care Ambulance Service (QCAS)**.  
+
+**Project Date:** The Information System was created during the second semester of 2025, with planning and preparation beginning early in the first semester.
 
 Our task was to provide QCAS with an information system capable of managing:
 - Inventory for each ambulance
