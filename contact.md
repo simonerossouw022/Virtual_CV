@@ -18,7 +18,7 @@ Contact details:
 
 ## Send me a message
 
-<form method="POST" action="https://formspree.io/f/your-form-id" class="staticman-comments page__comments-form">
+<form method="POST" action="https://formspree.io/f/mojgkloy" class="staticman-comments page__comments-form">
   <div class="form-group">
     <label for="name">Name</label>
     <input type="text" id="name" name="name" required>
