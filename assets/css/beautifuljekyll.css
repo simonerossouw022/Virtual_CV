@@ -1143,20 +1143,22 @@ pre {
 
 /* Post title on full post pages */
 .post-heading h1 {
-  color: #2c3e50 !important;   /* Dark readable text */
-  font-family: 'Georgia', serif;
+  color: #2c3e50 !important; 
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500; 
   font-size: 2.5rem;
-  font-weight: bold;
-  text-shadow: none !important; /* Remove glass overlay */
+  text-shadow: none !important; 
+  margin-bottom: 0.5rem;
 }
 
 /* Post subtitle on full post pages */
 .post-subheading {
   color: #555 !important;      /* Medium gray */
-  font-family: 'Arial', sans-serif;
-  font-size: 1.4rem;
-  font-style: italic;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-shadow: none !important;
+  margin-top: 0;
+  font-weight: 300;  
+  font-size: 1.2rem;        
 }
 
 
